@@ -18,7 +18,7 @@ def compare(pine, fktable, max_as, max_al, pdfs, scales):
         maximum power of strong coupling
     max_al : int
         maximum power of electro-weak coupling
-    pdf1 : list(str)
+    pdfs : list(str)
         list of the PDF set names
     scales: tuple
         contains the values the renormalization, factorization, and fragmentation scale
